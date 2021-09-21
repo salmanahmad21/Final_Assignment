@@ -1,0 +1,5 @@
+userCnic = "3520224324317"
+userName = "Salman Ahmad"
+userEmail = "salman.ahmad@arbisoft.com"
+userPhone = "03314412354"
+userPassword = "********"
